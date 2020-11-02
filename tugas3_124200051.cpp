@@ -90,8 +90,7 @@ cout<<""<<endl;
 				}
 				else
 				{
-				cout<<"Anda Tidak Lulus Kalkulus dengan nilai " << kuy
-				darata_a <<endl;	
+				cout<<"Anda Tidak Lulus Kalkulus dengan nilai " << rata_a <<endl;	
 				}
 			break;
 			
